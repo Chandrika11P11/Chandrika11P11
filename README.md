@@ -3,8 +3,7 @@
 ![Codewars](https://github.r2v.ch/codewars?user=Chandrika1111)
 
 ![](./profile-3d-contrib/profile-night-green.svg)
-
-![Metrics](https://metrics.lecoq.io/codepen?template=classic&leetcode=1&achievements=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&leetcode=false&leetcode.user=cosmiclearning1111&leetcode.sections=solved&leetcode.limit.skills=10&leetcode.limit.recent=2&config.timezone=Asia%2FCalcutta)
+![](./github-metrics.svg)
 
 <!--
 **Chandrika11P11/Chandrika11P11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
