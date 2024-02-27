@@ -28,6 +28,7 @@ jobs:
           user: Chandrika11P11
           template: classic
           base: ""
+          commits_authoring: Chandrika11P11
           config_timezone: Asia/Calcutta
           plugin_achievements: yes
           plugin_achievements_display: detailed
