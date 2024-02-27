@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 ![Codewars](https://github.r2v.ch/codewars?user=Chandrika1111)
+![Codewars](https://www.codewars.com/users/Chandrika1111/badges/large)
 
 <!--
 **Chandrika11P11/Chandrika11P11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
