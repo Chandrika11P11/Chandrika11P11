@@ -1,7 +1,9 @@
 ### Hi there 👋
 
+<!--
 ![Codewars](https://github.r2v.ch/codewars?user=Chandrika1111)
 ![](./github-metrics.svg)
+-->
 
 ![](./profile-3d-contrib/profile-night-green.svg)
 
