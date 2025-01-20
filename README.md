@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-[]Gumroad : https://cosmiclearning1111.gumroad.com/
-[]Youtube : https://www.youtube.com/@CosmicLearning1111
-[]Codepen : https://codepen.io/chandrika11p11
+- Gumroad : https://cosmiclearning1111.gumroad.com/
+- Youtube : https://www.youtube.com/@CosmicLearning1111
+- Codepen : https://codepen.io/chandrika11p11
 
 <!--
 ![Codewars](https://github.r2v.ch/codewars?user=Chandrika1111)
