@@ -1,9 +1,10 @@
 ### Hi there 👋
 <!--
 - Gumroad : https://cosmiclearning1111.gumroad.com/
-- Youtube : https://www.youtube.com/@CosmicLearning1111
+
 -->
 - Codepen : https://codepen.io/chandrika11p11
+- Youtube : https://www.youtube.com/@CodingSmartDesign
 <!--
 - Instagram : https://www.instagram.com/cosmiclearning1111/
 -->
