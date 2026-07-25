@@ -3,7 +3,7 @@
 - Gumroad : https://cosmiclearning1111.gumroad.com/
 - Codepen : https://codepen.io/chandrika11p11
 -->
-- Youtube : https://www.youtube.com/@CodingSmartDesign
+- Youtube : https://www.youtube.com/@ui-templates/
 <!--
 - Instagram : https://www.instagram.com/cosmiclearning1111/
 -->
